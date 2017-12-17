@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Analyse Transactionelle
+title:  "Analyse Transationelle"
+date:   2017-12-17 12:16:01 -0600
+categories: comunication
 ---
-
-Chacun a des états
+TEST
