@@ -7,17 +7,10 @@ categories: comunication
 
 J'ai découvert l'analyse transactionnelle pour la première fois lors d'un meetup agile et cela m'as réellement donnée envie d'apprendre plus!
 
-__Qu'est-ce que c'est l'analyse transactionnelle?__
+# Qu'est-ce que c'est l'analyse transactionnelle?
 
 
-> En psychologie, l'analyse transactionnelle, appelée aussi AT, 
-> est une théorie de la personnalité, 
-> des rapports sociaux1 et de la communication. 
-> Créée dans les années 1950 par le médecin psychiatre et psychanalyste Éric Berne2, 
-> elle postule des « états du Moi » (Parent, Adulte, Enfant), 
-> et étudie les phénomènes intrapsychiques à travers 
-> les échanges relationnels de deux personnes ou plus,
-> appelés « transactions ».
+> En psychologie, l'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux1 et de la communication. Créée dans les années 1950 par le médecin psychiatre et psychanalyste Éric Berne2, elle postule des « états du Moi » (Parent, Adulte, Enfant), et étudie les phénomènes intrapsychiques à travers les échanges relationnels de deux personnes ou plus, appelés « transactions ».
 
 
 
@@ -30,5 +23,6 @@ Quand on interagit avec une autre nous réalisons des __transactions__, d’où 
 Un ensemble de transactions peuvent être conflictuelle, échange d’information, un jeu..
 
 
-__Pourquoi cela nous aide d’en savoir un peu plus sur cela ? __
+# Pourquoi cela nous aide d’en savoir un peu plus sur cela ?
+
 Cela nous aide  à en savoir plus sur cela afin d’avoir une prise de conscience de ce qui se  passe lorsqu’on réagit, d’avoir une prise de conscience sur notre état e comment cet état influe l’autre. 
