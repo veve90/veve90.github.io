@@ -17,9 +17,9 @@ Le fait d'avoir la communication comme axe d'amélioration lors de mon suivi mis
 
 
 Comme cette définition le dit très bien, l’analyse transactionnelle est une science de la communication. Elle considère que nous avons des états qui peuvent changer d’un moment à un autre. Ces états sont :
--	L’état Parent : critique ou nourricier/aidant, quand on veut transmettre nos valeurs morales, nos jugements
--	L’état Enfant : soumis ou rebelle, quand on agit sous le coup de l’émotion
--	L’état Adulte : quand on utilise plus le coté objectif, rationnelle
+-	__L’état Parent :__ critique ou nourricier/aidant, quand on veut transmettre nos valeurs morales, nos jugements
+-	__L’état Enfant :__ soumis ou rebelle, quand on agit sous le coup de l’émotion
+-	__L’état Adulte :__ quand on utilise plus le coté objectif, rationnelle
 
 Quand on interagit avec une autre nous réalisons des __transactions__, d’où le nom de analyse transactionnelle.
 Un ensemble de transactions peuvent être conflictuelle, échange d’information, un jeu..
