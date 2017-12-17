@@ -1,50 +1,30 @@
 ---
 layout: post
-title:  "Big Data Software Engineer"
+title:  "Analyse Transationelle"
 date:   2017-12-17 12:16:01 -0600
-categories: CV
+categories: comunication
 ---
 
-Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ingénieure responsable et déterminée avec une expérience de trois ans en tant que Consultant Big Data. 
+J'ai découvert l'analyse transactionnelle pour la première fois lors d'un meetup agile et cela m'as réellement donnée envie d'apprendre plus!
 
-# DOMAINES D'EXPERTISE
-Ecosystème hadoop (Distribution Cloudera): HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
-Analyse des logs: ELK (Elasticsearch Logstash Kibana)
-Analyse Ad-hoc: Tableau, Dataiku
+Le fait d'avoir la communication comme axe d'amélioration lors de mon suivi mission a aussi été un facteur de motivation pour me pencher sur le sujet, mais je ne regrette pas.
 
-# EXPERIENCE PROFESSIONNELLE
-## 2014 - Present : CAPGEMINI – Consultant Big Data chez le Groupe SEB
-Mise en place du cluster (AWS )
--	 Administration du cluster (Cloudera Manager)
--	 Collecte, sauvgarde et traitement des données 
--	 Exposition des données dans un système tiers : QlikView, Dataiku
--	 Réalisation des demandes ponctuelles
--	 Participation aux choix des solutions à mettre en place
+# Qu'est-ce que c'est l'analyse transactionnelle?
 
-## 5 mois 2014: CAPGEMINI – Data Science
-Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
-## 4 mois 2013: ATOS WORLDLINE -  Développeur Android
-## 3 mois 2012:	KREACTIVE TECHNOLOGIES – Développeur iOS
+> En psychologie, l'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux1 et de la communication. Créée dans les années 1950 par le médecin psychiatre et psychanalyste Éric Berne2, elle postule des « états du Moi » (Parent, Adulte, Enfant), et étudie les phénomènes intrapsychiques à travers les échanges relationnels de deux personnes ou plus, appelés « transactions » (Wikipedia).
 
-# Education
-2009-2014	INSA de Lyon, Département Informatique (IT)
-2013-2014	   Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
-# PRIX ET DISTINCTIONS
-2016		   Cloudera Community Champions
 
-# INFORMATIONS PERSONNELLES
-Nationalité: Roumaine
-Permis B
+Comme cette définition le dit très bien, l’analyse transactionnelle est une science de la communication. Elle considère que nous avons des états qui peuvent changer d’un moment à un autre. Ces états sont :
+-	__L’état Parent :__ critique ou nourricier/aidant, quand on veut transmettre nos valeurs morales, nos jugements
+-	__L’état Enfant :__ soumis ou rebelle, quand on agit sous le coup de l’émotion
+-	__L’état Adulte :__ quand on utilise plus le coté objectif, rationnelle
 
-## Langues
--	Francais - bilingue
--	Anglais - courant - TOEIC 950/990
--	Roumain – langue maternelle
+Quand on interagit avec une autre nous réalisons des __transactions__, d’où le nom de analyse transactionnelle.
+Un ensemble de transactions peuvent être conflictuelle, échange d’information, un jeu..
 
-## Expérience bénévole
-- Mai 2016 Speaker  - Human Talk on ELK (Elasticsearch Logstash Kibana)
--	Juin 2016 Mentor - Django Girls Lyon
--	Membre de l’association Duchess Lyon
--	Co-créateur de l’association CodeClub Lyon
+
+# Pourquoi cela nous aide de savoir un peu plus sur ce domaine ?
+
+Cela nous aide  à en savoir plus sur cela afin d’avoir une prise de conscience de ce qui se  passe lorsqu’on réagit, d’avoir une prise de conscience sur notre état e comment cet état influe l’autre.
