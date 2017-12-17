@@ -7,6 +7,8 @@ categories: comunication
 
 J'ai découvert l'analyse transactionnelle pour la première fois lors d'un meetup agile et cela m'as réellement donnée envie d'apprendre plus!
 
+Le fait d'avoir la communication comme axe d'amélioration lors de mon suivi mission a aussi été un facteur de motivation pour me pencher sur le sujet, mais je ne regrette pas.
+
 # Qu'est-ce que c'est l'analyse transactionnelle?
 
 
