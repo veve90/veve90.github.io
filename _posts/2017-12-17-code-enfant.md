@@ -10,11 +10,11 @@ En ayant co-créé __Code Club Lyon__ et ainsi que en ayant participée à la cr
 
 
 **L'initiation au code**
-* [https://code.org/]
-* [https://scratch.mit.edu]
-* [https://blockly-games.appspot.com/]
+* [Hour Of Code](https://code.org/)
+* [Scratch](https://scratch.mit.edu)
+* [Blockly](https://blockly-games.appspot.com/)
 
 **Niveau "avancé"**
-* [https://codecombat.com/]
-* [https://www.codingame.com/]
+* [Code Combat](https://codecombat.com/)
+* [Coding Game](https://www.codingame.com/)
 
