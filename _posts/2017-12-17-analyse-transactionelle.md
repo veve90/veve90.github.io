@@ -23,6 +23,6 @@ Quand on interagit avec une autre nous réalisons des __transactions__, d’où 
 Un ensemble de transactions peuvent être conflictuelle, échange d’information, un jeu..
 
 
-# Pourquoi cela nous aide d’en savoir un peu plus sur ce domaine ?
+# Pourquoi cela nous aide de savoir un peu plus sur ce domaine ?
 
 Cela nous aide  à en savoir plus sur cela afin d’avoir une prise de conscience de ce qui se  passe lorsqu’on réagit, d’avoir une prise de conscience sur notre état e comment cet état influe l’autre. 
