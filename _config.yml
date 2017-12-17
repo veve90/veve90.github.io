@@ -20,6 +20,6 @@ permalink: '/:title/'
 
 gems: [jekyll-paginate]
 
-paginate: 10
+paginate: 3
 
 theme: jekyll-theme-cayman
