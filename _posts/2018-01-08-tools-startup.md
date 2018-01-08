@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Les 5 outils des entrepreneurs"
+title:  "Les 4 outils des entrepreneurs"
 date:   2017-12-17 12:16:01 -0600
 categories: outils, startup
 ---
