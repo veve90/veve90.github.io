@@ -18,3 +18,4 @@ En ayant co-créé __Code Club Lyon__ et ainsi que en ayant participée à la cr
 * [Code Combat](https://codecombat.com/)
 * [Coding Game](https://www.codingame.com/)
 
+En espérant que cela vas vous aider je vous souhaite une bonne journée,
